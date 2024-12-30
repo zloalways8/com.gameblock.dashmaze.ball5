@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6c43598c47c4fe682eb1a8fe93722c4, type: 3}
+  m_Name: NewLevel 17
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6643539246051430944, guid: afce7401fb453af4d80ace8962eed917, type: 3}
+  drawColor: {r: 0, g: 1, b: 0.84793735, a: 1}
